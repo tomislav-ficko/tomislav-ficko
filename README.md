@@ -29,12 +29,13 @@ Connect with me:
 
 ---
 
-<a href="https://github-readme-stats.vercel.app/api?username=tomislav-ficko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-  <img align="center" alt="Tomi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tomislav-ficko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=tomislav-ficko&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomislav-ficko&layout=compact&theme=radical" />
-</a>
+<p align="center">
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomislav-ficko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomislav-ficko&layout=compact&hide_border=true" />
+
+</p>
 
 <br>
 
