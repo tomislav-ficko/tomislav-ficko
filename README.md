@@ -14,7 +14,7 @@ Skills:
 [<code> <img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png"> </code>](https://docs.oracle.com/en/java/)
 [<code> <img alt="kotlin" width="26px" src="https://img.icons8.com/color/240/000000/kotlin.png"> </code>](https://kotlinlang.org/)
 [<code> <img alt="swift" width="26px" src="https://img.icons8.com/color/240/000000/swift.png"> </code>](https://swift.org/)
-[<code> <img alt="erlang" width="26px" src="https://www.erlang.org/img/erlang.png"> </code>](https://www.erlang.org/)
+[<code> <img alt="erlang" width="26px" src="https://www.erlang.org/assets/img/erlang-logo.svg"> </code>](https://www.erlang.org/)
 [<code> <img alt="python" width="26px" src="https://img.icons8.com/color/240/000000/python.png"> </code>](https://www.python.org/)
 [<code> <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"> </code>](https://www.json.org/json-en.html)
 [<code> <img alt="git" width="26px" src="https://img.icons8.com/color/240/000000/git.png"> </code>](https://git-scm.com/)
